@@ -1,1 +1,2 @@
-# booki-starter-pack
+Développeur d'application - JavaScript React 
+Projet 2 - Booki
