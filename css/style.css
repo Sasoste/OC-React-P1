@@ -197,7 +197,7 @@ header {
 }
 
 #filters i {
-  margin-right: 5px;
+  margin-right: 10px;
 }
 
 #filters p {
@@ -496,6 +496,7 @@ footer {
 
   .filterButtons p {
     width: 45%;
+    font-size: 14px;
   }
 
   .hebergements-and-populaires {
