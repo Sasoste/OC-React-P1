@@ -79,6 +79,10 @@ h2 {
   font-weight: bold;
 }
 
+.hebergementButton {
+  background-color: #f2f2f2;
+}
+
 .filtersText {
   font-size: 18px;
   font-weight: bold;
